@@ -504,12 +504,14 @@
       id="id-bce11f29d5da4006a67673f3c75d1dd9"
       name="DevEx"
       textAlignment="1"
+      fillColor="#80ffff"
+      alpha="100"
       borderType="1">
     <bounds
         x="855"
         y="348"
         width="660"
-        height="382"/>
+        height="444"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2bc5b64d61814147ac48ab7ad6c3d777">
@@ -715,7 +717,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d1c7e5417be744c5b3bdc7d6960e4d6d">
+        id="id-d1c7e5417be744c5b3bdc7d6960e4d6d"
+        targetConnections="id-4503378e1e2d4e858531b6b7ad349c28">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-20d91157aa9c430e8a83179e996c5ed6"
@@ -835,6 +838,77 @@
       <archimateElement
           xsi:type="archimate:TechnologyService"
           href="TechnologyService_id-6645bb8e74c24df09d5e1b71706a90ee.xml#id-6645bb8e74c24df09d5e1b71706a90ee"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-98f77edbed5441e3b1cbf76c7d13857e">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-4503378e1e2d4e858531b6b7ad349c28"
+          source="id-98f77edbed5441e3b1cbf76c7d13857e"
+          target="id-d1c7e5417be744c5b3bdc7d6960e4d6d">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-efd2bcd6484b430e8112cb111ff911e1.xml#id-efd2bcd6484b430e8112cb111ff911e1"/>
+      </sourceConnections>
+      <bounds
+          x="384"
+          y="363"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-089a079c7d8146978ee9280c812ff079.xml#id-089a079c7d8146978ee9280c812ff079"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-f7bbe8325ba642ad8f1681698a83d2f9"
+      name="Cloud "
+      textAlignment="1"
+      fillColor="#ff80ff"
+      alpha="100"
+      borderType="1">
+    <bounds
+        x="216"
+        y="694"
+        width="636"
+        height="110"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8451f2fed33747d4ba84e265fc10ed16">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-dcf291711b0445e5b8d79ae9be038467.xml#id-dcf291711b0445e5b8d79ae9be038467"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ddbc946ae4784f8da20da5facf350969">
+      <bounds
+          x="156"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-2eba3cbf4d1c4f6ead881a4492a0a5ab.xml#id-2eba3cbf4d1c4f6ead881a4492a0a5ab"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a7fdd27ce2504e5491009ff5d5d18a91">
+      <bounds
+          x="288"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-b642150cf6f146cba6b7b2f78dbe38fc.xml#id-b642150cf6f146cba6b7b2f78dbe38fc"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
