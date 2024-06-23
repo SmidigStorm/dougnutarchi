@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Master View"
-    id="id-8e70900beb0548a4bdee3954b2ff8442"/>
+    id="id-8e70900beb0548a4bdee3954b2ff8442">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a75b07988b864917983751b9ace3da6a">
+    <bounds
+        x="240"
+        y="168"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-884548eafcce4d209f1a1af951a20321.xml#id-884548eafcce4d209f1a1af951a20321"/>
+  </children>
+</archimate:ArchimateDiagramModel>

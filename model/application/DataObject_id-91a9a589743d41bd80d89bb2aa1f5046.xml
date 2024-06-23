@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Note"
+    id="id-91a9a589743d41bd80d89bb2aa1f5046">
+  <properties
+      key="Title"
+      value="Mandatory"/>
+  <properties
+      key="Description"
+      value="Optional"/>
+  <properties
+      key="Topic?"
+      value="Mandatory"/>
+  <properties
+      key="Note Accessory"
+      value="URL, Image etc"/>
+  <properties
+      key="Level"
+      value="Number"/>
+  <properties
+      key="Remember Spelling Flag"
+      value="Boolean"/>
+  <properties
+      key="Target note"
+      value="Note"/>
+</archimate:DataObject>
