@@ -165,7 +165,7 @@
         x="216"
         y="72"
         width="640"
-        height="360"/>
+        height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a252de945548415d97942ebae80d00e9"
@@ -212,7 +212,7 @@
       <bounds
           x="42"
           y="110"
-          width="348"
+          width="306"
           height="96"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -266,7 +266,7 @@
             href="AggregationRelationship_id-0dec26bfdc444398b433e2fc830c1b81.xml#id-0dec26bfdc444398b433e2fc830c1b81"/>
       </sourceConnections>
       <bounds
-          x="413"
+          x="352"
           y="112"
           width="120"
           height="72"/>
@@ -292,7 +292,7 @@
         id="id-25fb1f53a4714a7f857b6467f202987d"
         targetConnections="id-cd30c0b3fe394c029f0dd2c37b0fa9fc">
       <bounds
-          x="408"
+          x="347"
           y="24"
           width="120"
           height="55"/>
@@ -313,8 +313,8 @@
             href="RealizationRelationship_id-398fea303f964b3a84426bed69acf1fb.xml#id-398fea303f964b3a84426bed69acf1fb"/>
       </sourceConnections>
       <bounds
-          x="413"
-          y="284"
+          x="480"
+          y="116"
           width="120"
           height="55"/>
       <archimateElement
@@ -326,8 +326,8 @@
         id="id-e618bbd6f17047578a534a7e48b7a736"
         targetConnections="id-c1343e1c892f4fac8accc9d62c1a4f47">
       <bounds
-          x="413"
-          y="192"
+          x="480"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
@@ -345,7 +345,7 @@
       borderType="1">
     <bounds
         x="216"
-        y="431"
+        y="301"
         width="300"
         height="264"/>
     <children
@@ -427,7 +427,7 @@
       borderType="1">
     <bounds
         x="516"
-        y="430"
+        y="300"
         width="340"
         height="264"/>
     <children
@@ -870,8 +870,8 @@
       alpha="100"
       borderType="1">
     <bounds
-        x="216"
-        y="694"
+        x="218"
+        y="564"
         width="636"
         height="110"/>
     <children
