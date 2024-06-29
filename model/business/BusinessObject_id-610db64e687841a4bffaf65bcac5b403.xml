@@ -1,7 +1,7 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LinkingNote"
-    id="id-6526b26152b34496926358c9358be8d6">
+    name="hierarchical_note"
+    id="id-610db64e687841a4bffaf65bcac5b403">
   <properties
       key="id"
       value="int"/>

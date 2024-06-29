@@ -1,4 +1,14 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Review"
-    id="id-d91edcc7055c41909a1a2485284ef3df"/>
+    id="id-d91edcc7055c41909a1a2485284ef3df">
+  <properties
+      key="id"
+      value="integer"/>
+  <properties
+      key="reviewdate"
+      value="datetime"/>
+  <properties
+      key="interval"
+      value="integer"/>
+</archimate:BusinessObject>

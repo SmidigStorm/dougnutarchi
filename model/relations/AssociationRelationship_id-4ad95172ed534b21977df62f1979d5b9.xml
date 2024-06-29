@@ -1,12 +1,13 @@
-<archimate:SpecializationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IsSpecialization"
-    id="id-4d2f3d8f2468445bb13cb3b4dde0763a">
+    name="establishes hiearchy"
+    id="id-4ad95172ed534b21977df62f1979d5b9"
+    directed="true">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-7133e4c287ab422b9d1c0f8cb60f35de.xml#id-7133e4c287ab422b9d1c0f8cb60f35de"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-b2ee58debe324a5e8f203330f7345ab4.xml#id-b2ee58debe324a5e8f203330f7345ab4"/>
-</archimate:SpecializationRelationship>
+      href="BusinessObject_id-610db64e687841a4bffaf65bcac5b403.xml#id-610db64e687841a4bffaf65bcac5b403"/>
+</archimate:AssociationRelationship>

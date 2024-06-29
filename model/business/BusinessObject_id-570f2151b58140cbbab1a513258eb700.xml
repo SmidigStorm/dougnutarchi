@@ -1,0 +1,26 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quiz_question_and_answer"
+    id="id-570f2151b58140cbbab1a513258eb700">
+  <properties
+      key="id"
+      value="int"/>
+  <properties
+      key="created_at"
+      value="timestamp"/>
+  <properties
+      key="updated_at"
+      value="timestamp"/>
+  <properties
+      key="correct_answer_index"
+      value="tinyint"/>
+  <properties
+      key="note_id"
+      value="int"/>
+  <properties
+      key="is_approved"
+      value="tinyint"/>
+  <properties
+      key="quiz_question_id"
+      value="int"/>
+</archimate:BusinessObject>

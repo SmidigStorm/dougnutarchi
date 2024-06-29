@@ -1,12 +1,13 @@
-<archimate:ServingRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is_part_of"
-    id="id-6c5a0e2d643f4d7b9d8570d3b9af0eb2">
+    name="owns_circle"
+    id="id-f297cf88b0eb41d78187d2a06603bc55"
+    directed="true">
   <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-9fc927ad85d74b1e8a875d47ac3d9d1f.xml#id-9fc927ad85d74b1e8a875d47ac3d9d1f"/>
+      xsi:type="archimate:Contract"
+      href="Contract_id-5b12a634c0fa4e81b95c05112ccbc403.xml#id-5b12a634c0fa4e81b95c05112ccbc403"/>
   <target
       xsi:type="archimate:BusinessCollaboration"
       href="BusinessCollaboration_id-f859fa7aab7d4ca28624bdefda01a9bf.xml#id-f859fa7aab7d4ca28624bdefda01a9bf"/>
-</archimate:ServingRelationship>
+</archimate:AssociationRelationship>

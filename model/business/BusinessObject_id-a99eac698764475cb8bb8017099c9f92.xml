@@ -1,11 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LinkingNote"
-    id="id-6526b26152b34496926358c9358be8d6">
+    name="Bazaar Notebook"
+    id="id-a99eac698764475cb8bb8017099c9f92">
   <properties
       key="id"
       value="int"/>
   <properties
-      key="note_id"
+      key="notebook_id"
       value="int"/>
 </archimate:BusinessObject>

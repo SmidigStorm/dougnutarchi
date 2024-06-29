@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="linked_from"
-    id="id-6cba8c1bf16948b69d8167b8c59e31b6"
+    name="answers_question"
+    id="id-efc5aadd8517424a9783f46c4a4e32a3"
     directed="true">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-6526b26152b34496926358c9358be8d6.xml#id-6526b26152b34496926358c9358be8d6"/>
+      href="BusinessObject_id-cf4f7882b1c649cb8210f715e3e93d13.xml#id-cf4f7882b1c649cb8210f715e3e93d13"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-7133e4c287ab422b9d1c0f8cb60f35de.xml#id-7133e4c287ab422b9d1c0f8cb60f35de"/>
+      href="BusinessObject_id-93f611ccdd484b71828ec8bcaa178499.xml#id-93f611ccdd484b71828ec8bcaa178499"/>
 </archimate:AssociationRelationship>

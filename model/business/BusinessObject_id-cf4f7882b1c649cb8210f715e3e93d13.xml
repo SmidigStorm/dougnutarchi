@@ -1,23 +1,23 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Notebook"
-    id="id-08c8da117dd9489697ce9cb9840708e2">
+    name="Quiz_answer"
+    id="id-cf4f7882b1c649cb8210f715e3e93d13">
   <properties
       key="id"
       value="int"/>
   <properties
-      key="ownership_id"
+      key="quiz_question_id"
       value="int"/>
   <properties
-      key="creator_id"
-      value="int"/>
+      key="answer"
+      value="varchar"/>
   <properties
-      key="skip_review_entierly"
+      key="result"
       value="tinyint"/>
   <properties
-      key="deleted_at"
+      key="created_at"
       value="timestamp"/>
   <properties
-      key="number_of_questions_in_asssesment"
-      value="int"/>
+      key="updated_at"
+      value="timestamp"/>
 </archimate:BusinessObject>

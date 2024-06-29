@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IsWithinA"
+    name="is_within_a"
     id="id-1107c482a11b4b4487a923755c9b6b39">
   <source
       xsi:type="archimate:BusinessObject"

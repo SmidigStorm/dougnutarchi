@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="linkedto"
+    name="linked_to"
     id="id-965067126f254c19964baf22e4c4b11f"
     directed="true">
   <source

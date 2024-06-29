@@ -1,11 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LinkingNote"
-    id="id-6526b26152b34496926358c9358be8d6">
+    name="Attachment Blob"
+    id="id-825c2830e63f496e945387391af1f3d4">
   <properties
       key="id"
       value="int"/>
   <properties
-      key="note_id"
-      value="int"/>
+      key="data"
+      value="longblob"/>
 </archimate:BusinessObject>

@@ -1,20 +1,20 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Image"
-    id="id-ec379fd035a345e4a3fcfbf5d73cd93f">
+    name="Quiz_question"
+    id="id-93f611ccdd484b71828ec8bcaa178499">
   <properties
       key="id"
       value="int"/>
   <properties
-      key="user_id"
-      value="int"/>
+      key="raw_json_question"
+      value="text"/>
   <properties
-      key="name"
+      key="check_spell"
+      value="tinyint"/>
+  <properties
+      key="image_url"
       value="varchar"/>
   <properties
-      key="type"
+      key="image_mask"
       value="varchar"/>
-  <properties
-      key="attachment_blob_id"
-      value="int"/>
 </archimate:BusinessObject>

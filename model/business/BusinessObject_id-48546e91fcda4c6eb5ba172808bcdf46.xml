@@ -1,4 +1,20 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Audio"
-    id="id-48546e91fcda4c6eb5ba172808bcdf46"/>
+    id="id-48546e91fcda4c6eb5ba172808bcdf46">
+  <properties
+      key="id"
+      value="int"/>
+  <properties
+      key="user_id"
+      value="int"/>
+  <properties
+      key="name"
+      value="varchar"/>
+  <properties
+      key="type"
+      value="varchar"/>
+  <properties
+      key="attachment_blob_id"
+      value="int"/>
+</archimate:BusinessObject>

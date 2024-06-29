@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Links a notebook to the Bazaar"
+    id="id-30abed3cb96440fcae63035f7e31f444">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a99eac698764475cb8bb8017099c9f92.xml#id-a99eac698764475cb8bb8017099c9f92"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-08c8da117dd9489697ce9cb9840708e2.xml#id-08c8da117dd9489697ce9cb9840708e2"/>
+</archimate:SpecializationRelationship>

@@ -1,7 +1,7 @@
-<archimate:BusinessRole
+<archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CircleUser"
-    id="id-9fc927ad85d74b1e8a875d47ac3d9d1f">
+    name="Ownership"
+    id="id-5b12a634c0fa4e81b95c05112ccbc403">
   <properties
       key="id"
       value="int"/>
@@ -11,4 +11,4 @@
   <properties
       key="circle_id"
       value="int"/>
-</archimate:BusinessRole>
+</archimate:Contract>
